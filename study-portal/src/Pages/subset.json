@@ -1,0 +1,94 @@
+[
+    {
+        "Id": 1,
+        "College": "Indira Gandhi National Open University",
+        "CollegeLogo": "images/Trainline.png",
+        "Rating": 3.88,
+        "Course": "Automation and Networking",
+        "Duration": 2,
+        "City": "New Delhi",
+        "State": "Delhi",
+        "Country": "India",
+        "AverageFee": 30,
+        "AcceptanceRate": 71
+    },
+    {
+        "Id": 2,
+        "College": "Indian Maritime University",
+        "CollegeLogo": "images/Linear.png",
+        "Rating": 3.45,
+        "Course": "B. Sc Nautical Science",
+        "Duration": 1,
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Country": "India",
+        "AverageFee": 50,
+        "AcceptanceRate": 68
+    },
+    {
+        "Id": 3,
+        "College": "ACME College of Engineering",
+        "CollegeLogo": "images/Notion.png",
+        "Rating": 3.2,
+        "Course": "B. Tech Civil Engineering",
+        "Duration": 3,
+        "City": "Saunda",
+        "State": "Uttar Pradesh",
+        "Country": "India",
+        "AverageFee": 70,
+        "AcceptanceRate": 47
+    },
+    {
+        "Id": 4,
+        "College": "ACME College of Engineering",
+        "CollegeLogo": "images/Loom.png",
+        "Rating": 3.2,
+        "Course": "B. Tech Computer Science and Engineering",
+        "Duration": 3,
+        "City": "Saunda",
+        "State": "Uttar Pradesh",
+        "Country": "India",
+        "AverageFee": 10,
+        "AcceptanceRate": 75
+    },
+    {
+        "Id": 5,
+        "College": "ACME College of Engineering",
+        "CollegeLogo": "images/Raycast.png",
+        "Rating": 3.2,
+        "Course": "B. Tech Electrical and Electronics Engineering",
+        "Duration": 5,
+        "City": "Saunda",
+        "State": "Uttar Pradesh",
+        "Country": "India",
+        "AverageFee": 90,
+        "AcceptanceRate": 79
+    },
+    {
+        "Id": 6,
+        "College": "ACME College of Engineering",
+        "CollegeLogo": "images/Spline.png",
+        "Rating": 3.2,
+        "Course": "B. Tech Electronics and Communication Engineering",
+        "Duration": 4,
+        "City": "Saunda",
+        "State": "Uttar Pradesh",
+        "Country": "India",
+        "AverageFee": 100,
+        "AcceptanceRate": 57
+    },
+    {
+        "Id": 7,
+        "College": "ACME College of Engineering",
+        "CollegeLogo": "images/Notion.png",
+        "Rating": 3.2,
+        "Course": "B. Tech Information Technology",
+        "Duration": 2,
+        "City": "Saunda",
+        "State": "Uttar Pradesh",
+        "Country": "India",
+        "AverageFee": 62,
+        "AcceptanceRate": 88
+    }
+    
+]

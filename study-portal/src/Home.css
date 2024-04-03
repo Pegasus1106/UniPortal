@@ -1,0 +1,79 @@
+/* Home.css */
+
+.container {
+  padding: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); /* Adjusted minimum width */
+  grid-gap: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: default;
+  
+}
+
+.card-images {
+  display: flex;
+  height: 300px; /* Adjusted height for images */
+}
+
+.user-image,
+.college-logo {
+  flex: 1;
+  object-fit: contain; /* Ensure images fit within container */
+  max-height: 100%; /* Ensure images don't exceed container height */
+  max-width: 50%; /* Ensure each image takes half of the card width */
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn.primary {
+  background-color: #2185d0;
+  color: white;
+}
+
+.btn.green {
+  background-color: #21ba45;
+  color: white;
+}
+
+.btn.red {
+  background-color: #db2828;
+  color: white;
+}
+
+.card-header {
+  margin: 0;
+}
+
+.card-meta {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #666;
+}
+
+.card-description {
+  margin-top: 10px;
+}

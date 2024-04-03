@@ -1,0 +1,132 @@
+/* Box.css */
+
+/* Container for all boxes */
+.App {
+  display: flex; /* Use flexbox */
+  flex-wrap: wrap; /* Allow wrapping of boxes */
+  justify-content: center; /* Center boxes horizontally */
+  margin: 0 auto; /* Auto margins for equal spacing on both sides */
+  max-width: 1200px; /* Example max-width for centering */
+}
+
+.box {
+  position: relative; /* Positioning context for absolute positioning */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  height: auto;
+  border: 2px solid #000;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-align: center;
+  position: relative; /* Add this line */
+}
+
+.box-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative; /* Remove this line */
+}
+
+.box-images {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.box-image,
+.box-college-logo {
+  width: 80px; /* Decrease logo size */
+  height: 80px; /* Decrease logo size */
+  border-radius: 50%; /* Make the image rounded */
+  overflow: hidden; /* Hide overflow to maintain rounded shape */
+}
+
+.box-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0; /* Remove frameless border for the image */
+}
+
+.box-college-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.box-name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.box-college-name {
+  margin-bottom: 5px;
+}
+
+
+
+.box-description {
+  margin-bottom: 10px;
+}
+
+.box-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  }
+
+
+.box-button:hover {
+  background-color: #0056b3;
+}
+
+
+
+  
+
+
+/* Table.css */
+
+.table-container {
+    display: flex;
+    justify-content: center;
+    margin: 0 100px; /* Set the same margin on the left and right sides */
+  }
+  
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .data-table th,
+  .data-table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .data-table th {
+    background-color: #5691f7;
+    color: white;
+    text-align: center; /* Center-align column titles */
+  }
+  
+  .data-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .data-table tr:hover {
+    background-color: #94b8f6;
+  }
+  
