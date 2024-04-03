@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "images/image1.jpg",
+      "name": "John Doe",
+      "location": "xyz",
+      "collegeLogo": "images/Indian_Maritime_University_logo1.png",
+      "collegeName": "ijoiounu",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "imageUrl": "image2.jpg",
+      "name": "Jane Doe",
+      "location": "xyz",
+      "collegeLogo": "college2.png",
+      "collegeName": "ijoiounu",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 2,
+        "imageUrl": "image2.jpg",
+        "name": "Jane Doe",
+        "location": "xyz",
+        "collegeLogo": "college2.png",
+        "collegeName": "ijoiounu",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 2,
+        "imageUrl": "image2.jpg",
+        "name": "Jane Doe",
+        "location": "xyz",
+        "collegeLogo": "college2.png",
+        "collegeName": "ijoiounu",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 2,
+        "imageUrl": "image2.jpg",
+        "name": "Jane Doe",
+        "location": "xyz",
+        "collegeLogo": "college2.png",
+        "collegeName": "ijoiounu",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 2,
+        "imageUrl": "image2.jpg",
+        "name": "Jane Doe",
+        "location": "xyz",
+        "collegeLogo": "college2.png",
+        "collegeName": "ijoiounu",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 2,
+        "imageUrl": "image2.jpg",
+        "name": "Jane Doe",
+        "location": "xyz",
+        "collegeLogo": "college2.png",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 2,
+        "imageUrl": "image2.jpg",
+        "name": "Jane Doe",
+        "location": "xyz",
+        "collegeLogo": "college2.png",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 2,
+        "imageUrl": "image2.jpg",
+        "name": "Jane Doe",
+        "location": "xyz",
+        "collegeLogo": "college2.png",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+    
+
+  ]
