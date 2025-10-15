@@ -197,8 +197,8 @@ Visit [http://localhost:5173](http://localhost:5173) to view the app.
 
 **Tejas Uttare**  
 B.Tech – Computer Science & Engineering (2021–2025)  
-Unitedworld School of Computational Intelligence, Karnavati University  
-📧 [tejas21btce48@karnavatiuniversity.edu.in](mailto:tejas21btce48@karnavatiuniversity.edu.in)
+Karnavati University  
+📧 [tejasuttare@gmail.com](mailto:tejasuttare@gmail.com)
 
 ---
 
