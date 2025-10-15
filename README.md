@@ -63,6 +63,12 @@ Database (Firebase Firestore)
 Auth Layer (Auth0 by Okta)
 ```
 <p align="center">
+  <img width="754" height="519" alt="sign-up" src="https://github.com/user-attachments/assets/3f1925b6-1654-4631-aa8e-ca7ea4d395af" />
+<br>
+  <b>(Signup and Login with email or Login with Google)</b>
+</p>
+
+<p align="center">
   <img width="904" height="78" alt="Flow" src="https://github.com/user-attachments/assets/e4729250-c6fc-4957-b112-53ac876198d0" /><br>
   <b>(Flow Diagram)</b>
 </p>
