@@ -114,25 +114,25 @@ Visit [http://localhost:5173](http://localhost:5173) to view the app.
 ## 📸 UI Snapshots
 
 <img width="839" height="420" alt="image" src="https://github.com/user-attachments/assets/b1938521-6d03-4151-8a2b-fcf174b3367c" />
-<p align="center"><em>(Start a Search Page with Filter option)</em></p>
+<p align="center"><em>(**Start a Search Page with Filter option**)</em></p>
 
 <img width="839" height="422" alt="image" src="https://github.com/user-attachments/assets/1053085e-e6f4-4f11-9330-2f223ba7918b" />
-<p align="center"><em>(Search Page with Search by Course and Search by City Functionality)</em></p>
+<p align="center"><em>(**Search Page with Search by Course and Search by City Functionality**)</em></p>
 
 <img width="854" height="261" alt="image" src="https://github.com/user-attachments/assets/3f902b76-cd25-475a-be77-45b40493c70d" />
-<p align="center"><em>(Search by Course and City Example with onClick Official College Page Redirection)</em></p>
+<p align="center"><em>(**Search by Course and City Example with onClick Official College Page Redirection**)</em></p>
 
 <img width="868" height="435" alt="image" src="https://github.com/user-attachments/assets/6335bb67-4db6-4500-8522-c6ff4aeca11b" />
-<p align="center"><em>(View other Students Experience)</em></p>
+<p align="center"><em>(**View other Students Experience**)</em></p>
 
 <img width="900" height="599" alt="image" src="https://github.com/user-attachments/assets/d8031a3b-4c71-47f3-8fb5-542d9265f58b" />
-<p align="center"><em>(You can Add Your Experience)</em></p>
+<p align="center"><em>(**You can Add Your Experience**)</em></p>
 
 <img width="880" height="591" alt="image" src="https://github.com/user-attachments/assets/00d2bd73-053b-4618-bac0-0ad1683054bd" />
-<p align="center"><em>(You can Edit Your own Experience)</em></p>
+<p align="center"><em>(**You can Edit Your own Experience**)</em></p>
 
 <img width="1123" height="516" alt="image" src="https://github.com/user-attachments/assets/6aa0d6df-ea8c-4ba0-a39e-d221f54c8b8c" />
-<p align="center"><em>(About Page where all the Project details are mentioned)</em></p>
+<p align="center"><em>(**About Page where all the Project details are mentioned**)</em></p>
 
 
 
