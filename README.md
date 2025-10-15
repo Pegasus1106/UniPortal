@@ -62,7 +62,16 @@ Database (Firebase Firestore)
         ↓
 Auth Layer (Auth0 by Okta)
 ```
+<p align="center">
+  <img width="904" height="78" alt="Flow" src="https://github.com/user-attachments/assets/e4729250-c6fc-4957-b112-53ac876198d0" /><br>
+  <b>(Flow Diagram)</b>
+</p>
 
+<p align="center">
+  <img width="977" height="657" alt="Architecture" src="https://github.com/user-attachments/assets/4dede18b-ed53-4cf8-a378-64418495bb89" />
+<br>
+  <b>(Architecture Diagram)</b>
+</p>
 ---
 
 ## 🧭 Flow of the Application
