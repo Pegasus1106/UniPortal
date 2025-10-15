@@ -114,8 +114,8 @@ Visit [http://localhost:5173](http://localhost:5173) to view the app.
 ## 📸 UI Snapshots
 
 | Landing Page | College Search | Community Page |
-|---------------|----------------|----------------|
-| ![Landing](assets/landing.png) | ![Search](assets/search.png) | ![Community](assets/community.png) |
+<img width="839" height="420" alt="image" src="https://github.com/user-attachments/assets/b1938521-6d03-4151-8a2b-fcf174b3367c" />
+
 
 *(Replace the placeholders above with actual screenshots from your report)*
 
